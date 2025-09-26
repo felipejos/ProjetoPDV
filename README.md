@@ -1,18 +1,20 @@
-## Getting Started
+# 🛒 Sistema de Ponto de Venda (PDV) em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é um sistema de **Ponto de Venda (PDV)** desenvolvido em **Java**, com foco inicial no **console (linha de comando)**.  
+O objetivo é construir a lógica de negócio completa — incluindo **cadastro de matérias-primas, produtos, clientes e vendas** —  
+para depois evoluir para uma aplicação web com integração a banco de dados.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Etapas do Projeto
+1. Desenvolvimento da estrutura base em Java (console).
+2. Implementação de cadastro e gerenciamento de matérias-primas, produtos, clientes e vendas.
+3. Evolução para aplicação web utilizando frameworks modernos.
+4. Integração com banco de dados para persistência das informações.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🎯 Objetivo Final
+Criar um sistema completo de **PDV**, **modular e escalável**, que possa ser adaptado tanto para **estudos** quanto para **uso real**.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
